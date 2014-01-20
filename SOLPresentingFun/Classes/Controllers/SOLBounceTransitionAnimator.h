@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Soleares, Inc. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "SOLSlideTransitionAnimator.h"
 
 @interface SOLBounceTransitionAnimator : SOLSlideTransitionAnimator

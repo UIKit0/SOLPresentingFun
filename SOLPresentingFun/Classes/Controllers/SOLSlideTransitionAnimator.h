@@ -5,8 +5,7 @@
 //  Created by Jesse Wolff on 10/31/13.
 //  Copyright (c) 2013 Soleares, Inc. All rights reserved.
 //
-
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import "SOLBaseTransitionAnimator.h"
 
 typedef NS_ENUM(NSInteger, SOLEdge) {

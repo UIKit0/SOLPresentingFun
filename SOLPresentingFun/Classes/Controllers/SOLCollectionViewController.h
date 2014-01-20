@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 Soleares, Inc. All rights reserved.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 @interface SOLCollectionViewController : UICollectionViewController
 
